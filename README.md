@@ -1,0 +1,1 @@
+# truncate_dynamodb.sh
